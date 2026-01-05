@@ -102,6 +102,3 @@ Security
 
 ---
 
-## 作者
-
-Allen Hsu
