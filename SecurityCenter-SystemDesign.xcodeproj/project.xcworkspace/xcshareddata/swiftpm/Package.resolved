@@ -1,0 +1,24 @@
+{
+  "originHash" : "4ae1b5b7d199c7b82dad8abcb51502f30cb10b4e4d209d673067eaf1d1b5ce36",
+  "pins" : [
+    {
+      "identity" : "hsextensions.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/horizontalsystems/HsExtensions.Swift.git",
+      "state" : {
+        "revision" : "0012014f98ae81ffb89b0d3a2e9c204559e1c278",
+        "version" : "1.0.6"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e0c7eebc5a4465a3c4680764f26b7a61f567cdaf"
+      }
+    }
+  ],
+  "version" : 3
+}
